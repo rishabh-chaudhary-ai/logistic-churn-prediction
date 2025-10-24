@@ -1,0 +1,12 @@
+# Ignore Python virtual environment folders and system files
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Python bytecode/cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
