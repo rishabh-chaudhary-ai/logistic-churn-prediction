@@ -4,6 +4,8 @@ Lib/
 Scripts/
 share/
 data/
+etc/
+app/catboost_info
 pyvenv.cfg
 
 # Python bytecode/cache
