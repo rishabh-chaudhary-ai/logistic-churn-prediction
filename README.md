@@ -9,7 +9,7 @@ Telecom companies face fierce competition and costly customer attrition. Identif
 
 ## Solution Approach
 
-*The approach consists of the following key steps:
+The approach consists of the following key steps:
 
 ### Data Exploration and Preprocessing:
 - Import and explore the telecom churn dataset, examining data types, distributions and missing values.
